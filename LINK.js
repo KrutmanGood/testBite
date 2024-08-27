@@ -1,1 +1,1 @@
-const LINK = 'https://t.me/Paula_Robot?start';
+const LINK = 'https://t.me/Paula_Robot?start=123';
